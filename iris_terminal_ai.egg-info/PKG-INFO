@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: iris-terminal-ai
+Version: 0.1.0
+Summary: Always-available terminal AI assistant with online/offline support
+Requires-Python: >=3.10
+Requires-Dist: litellm>=1.40.0
+Requires-Dist: ollama>=0.3.0
+Requires-Dist: rich>=13.7.0
+Requires-Dist: prompt_toolkit>=3.0.43

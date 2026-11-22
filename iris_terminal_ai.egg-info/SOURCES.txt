@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+iris/__init__.py
+iris/cli.py
+iris_terminal_ai.egg-info/PKG-INFO
+iris_terminal_ai.egg-info/SOURCES.txt
+iris_terminal_ai.egg-info/dependency_links.txt
+iris_terminal_ai.egg-info/entry_points.txt
+iris_terminal_ai.egg-info/requires.txt
+iris_terminal_ai.egg-info/top_level.txt
